@@ -15,6 +15,7 @@ The player controls a character to defend the statue, collect power-ups, and int
 ---
 ## Scripts
 
+```
 Scripts
 ├── GameManager.cs
 ├── PlayerController.cs
@@ -23,7 +24,7 @@ Scripts
 ├── Rotator.cs
 ├── CubeSpawner.cs
 └── TestCubeScript.cs
-
+```
 ## Scripts Overview
 
 ### **GameManager.cs**
