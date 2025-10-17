@@ -1,4 +1,4 @@
-# Cube Defense – Protect the Tower from Swarming Cubes!
+# Cube Defense – Defend the Tower from Swarming Cubes!
 
 A 3D cube defense game where cubes spawn at the edges of an arena and move toward a Tower.  
 The player controls a character to defend the statue, collect power-ups, and interact with cubes.
