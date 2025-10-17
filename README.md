@@ -4,7 +4,7 @@ A 3D cube defense game where cubes spawn at the edges of an arena and move towar
 The player controls a character to defend the statue, collect power-ups, and interact with cubes.
 
 ---
-https://github.com/user-attachments/assets/52b669fb-4a04-4c5e-a441-f6ce8e0babe6
+https://github.com/user-attachments/assets/4570f749-3cc8-4475-8835-7a85420d14cf
 
 ## Features
 - Player movement with walking, running, and smooth rotation.
