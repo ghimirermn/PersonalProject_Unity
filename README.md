@@ -9,7 +9,7 @@ The player controls a character to defend the statue, collect power-ups, and int
 - Player movement with walking, running, and smooth rotation.
 - Collectible defender power-ups with jump and push-back effects.
 - Cubes spawn at arena edges and move toward a target statue.
-- Automatic cube and power-up rotation for visual appeal.
+- Power-ups and their indicators rotate continuously for visual effect.
 - Score tracking, game start, and game-over logic.
 
 ---
